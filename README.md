@@ -9,7 +9,7 @@ Brief tutorial on basic downloading and plotting of ICESat-2 data for the Ice Sh
 5. In order to ensure that all the python libraries are sucesfully imported, open `test_ICESat-2_environment.ipynb`. Then execute the code block with all the import statements. If no errors occur, then you have sucesfully imported all necessary python libraries. If you get error messages, you either need to troubelshoot, or seek advice from one of us! Good luck!  
 
 ## Tutorial Creation To Do List
-1. Create ICESat-2 materials. 
+1. Compile ICESat-2 data product overview materials. 
 2. Implement download notebook.
 3. Implement plotting notebook.
 4. Add all modules to ICESat-2 environment and then export toICESat-2.yml
