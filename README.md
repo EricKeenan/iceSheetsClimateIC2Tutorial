@@ -12,7 +12,7 @@ Brief tutorial on basic downloading and plotting of ICESat-2 data for the Ice Sh
 1. Compile ICESat-2 data product overview materials. 
 2. Implement download notebook.
 3. Implement plotting notebook.
-4. Add all modules to ICESat-2 environment and then export toICESat-2.yml
-5. Update and test `test_ICESat-2_environment.ipynb"
+4. Add all modules to ICESat-2 environment and then export to ICESat-2.yml
+5. Update and test `test_ICESat-2_environment.ipynb`
 6. Push to github.
 7. Test on external machine.  
