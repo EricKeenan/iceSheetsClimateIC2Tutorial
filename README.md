@@ -8,10 +8,11 @@ Brief tutorial on basic downloading and plotting of ICESat-2 data for the Ice Sh
 4. Navigate into the new repository, `cd iceSheetsClimateIC2Tutorial`. Then create  the required python environment, `conda env create -f ICESat-2.yml`. Then activate the python environment, `source activate ICESat-2.yml`. Python relies on a variety of open source tools. By activating this ICESat-2 environment, you are importing the python tools we need to download, process, and visualize ICESat-2 data. 
 5. In order to ensure that all the python libraries are sucesfully imported, open `test_ICESat-2_environment.ipynb`. Then execute the code block with all the import statements. If no errors occur, then you have sucesfully imported all necessary python libraries. If you get error messages, you either need to troubelshoot, or seek advice from one of us! Good luck!  
 
-## To Do
-1. Implement download notebook.
-2. Implement plotting notebook.
-3. Add all modules to ICESat-2 environment and then export toICESat-2.yml
-4. Update and test `test_ICESat-2_environment.ipynb"
-5. Push to github.
-6. Test on external machine.  
+## Tutorial Creation To Do List
+1. Create ICESat-2 materials. 
+2. Implement download notebook.
+3. Implement plotting notebook.
+4. Add all modules to ICESat-2 environment and then export toICESat-2.yml
+5. Update and test `test_ICESat-2_environment.ipynb"
+6. Push to github.
+7. Test on external machine.  
