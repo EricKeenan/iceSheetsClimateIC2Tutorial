@@ -5,7 +5,7 @@ Brief tutorial on basic downloading and plotting of ICESat-2 data for the Ice Sh
 
 2. If you have not already done this, install python3 with Anaconda (https://www.anaconda.com/distribution/).
 
-3. Clone this repository. First open a terminal, then navigate to the parent directory where you would like to have this repository live on your machine, then run `git clone https://github.com/EricKeenan/iceSheetsClimateIC2Tutorial.git` 
+3. First open a terminal, then navigate to the parent directory where you would like to have this repository live on your machine, then run `git clone https://github.com/EricKeenan/iceSheetsClimateIC2Tutorial.git` 
 
 4. Navigate into the new repository, `cd iceSheetsClimateIC2Tutorial`. Then create  the required python environment, `conda env create -f ICESat-2.yml` (this will take a few minutes). Next, activate the python environment, `source activate remote2`. Finally, add the environment to the list of available kernels. `python -m ipykernel install --user --name remote2 --display-name remote2`
 
