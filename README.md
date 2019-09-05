@@ -13,7 +13,7 @@ The beauty of Python is that it is community developed and open source, thus if 
 
 For non-macOS users: I had issues using this environment with linux. If you plan to use linux or windows, you may encounter issues with `conda env create -f ICESat-2.yml`. If so, check this out (https://johannesgiorgis.com/sharing-conda-environments-across-different-operating-systems/) or come to one of us. 
 
-5. In order to ensure that all the python libraries are sucesfully imported, open `test_ICESat-2_environment.ipynb` and activate the remote2 kernel. Then execute the code block with all the import statements. If no errors occur, then you have sucesfully imported all necessary python libraries. If you get error messages, you either need to troubelshoot, or seek advice from one of us! Good luck!  
+5. In order to ensure that all the python libraries are sucesfully imported, open `notebooks/test_ICESat-2_environment.ipynb` and activate the remote2 kernel. Then execute the code block with all the import statements. If no errors occur, then you have sucesfully imported all necessary python libraries. If you get error messages, you either need to troubelshoot, or seek advice from one of us! Good luck!  
 
 ## Tutorial Creation To Do List
 1. Compile ICESat-2 data product overview materials. 
