@@ -1,6 +1,5 @@
 # iceSheetsClimateIC2Tutorial
 Brief tutorial on basic downloading and plotting of ICESat-2 data for the Ice Sheets and Climate group.
-## WARNING: As of August 23rd, 2019 this repository is not stable. So please hold off on completing the preflight-checklist. 
 ## Preflight-Checklist
 1. Create NASA EarthData login (https://urs.earthdata.nasa.gov/). This is required to retrieve ICESat-2 data.
 
