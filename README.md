@@ -17,4 +17,3 @@ For non-macOS users: I had issues using this environment with linux. If you plan
 
 ## Tutorial Creation To Do List
 1. Compile ICESat-2 data product overview materials. 
-2. Test on external machine.  
